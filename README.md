@@ -1,4 +1,4 @@
-# Nethack backup
+# nethack backup
 
 This repo holds my current nethack savefile so that I can continue playing after a perma-death. And yes, I know thats save-scumming/cheating :D. The save file will be exported from my nethack playground and reinjected everytime I face a perma-death. So you can expect the stats to increase and gradually get better over time, since I manage the game using git versioning. Here are some of my current game stats:
 
