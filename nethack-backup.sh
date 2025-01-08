@@ -1,6 +1,6 @@
-rm -rf /Users/$(whoami)/Desktop/nethack/backup/*
+rm -rf ./backup/*
 sleep 1 # just for debug
-cp -r /opt/homebrew/share/nethack/* /Users/$(whoami)/Desktop/nethack/backup/
+cp -r /opt/homebrew/share/nethack/* ./backup/
 
 
 
